@@ -1,0 +1,11 @@
+gspread
+oauth2client
+boto3
+python-dotenv
+aiohttp
+bs4
+langchain
+langchain-openai
+openai
+tiktoken
+faiss-cpu
